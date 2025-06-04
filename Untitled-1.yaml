@@ -1,0 +1,18 @@
+👨🏻‍💻 Resoluciones Lógicas - Práctico 06: 
+📢 Proyecto Web:
+
+✅ Definir los Grupos en subirlos en el Canal.
+✅ Actividad:
+
+👨🏻‍💻  Mi Lugar Favorito
+
+Objetivo: Crear una página web sencilla utilizando los conceptos básicos de HTML para describir tu lugar favorito.
+
+Instrucciones:
+1. Crea un nuevo archivo llamado mi_lugar.html en tu editor de texto.,
+2. Estructura básica: Comienza con la estructura básica de un documento HTML.
+3. Título principal: Dentro de la etiqueta <body>, agrega un título principal (encabezado <h1>) que diga "Mi Lugar Favorito: [Tu lugar favorito]". Por ejemplo: <h1>Mi Lugar Favorito: La Plaza del Barrio</h1>,
+4. Párrafo descriptivo: Debajo del título, escribe un párrafo (<p>) donde describas por qué ese lugar es tu favorito. Menciona qué te gusta de él, qué haces allí, etc. Asegúrate de que tenga al menos 3-4 líneas de texto.,
+5. Imagen: Inserta una imagen (<img>) que represente tu lugar favorito. Si no tienes una foto real, puedes buscar una imagen relacionada en internet (asegúrate de que sea de uso libre o cita la fuente) y guárdala en la misma carpeta que tu archivo HTML, o usa una URL directa. No olvides el atributo alt para describir la imagen.
+7. Lista de actividades: Crea una lista desordenada (<ul>) o ordenada (<ol>) con al menos tres actividades que sueles hacer en ese lugar. Cada actividad debe ser un elemento de lista (<li>).
+8. Estilo con colores y fondo: Dentro de la etiqueta <head>, agrega una etiqueta <style> para definir estilos CSS. Usa CSS para cambiar el color de fondo de toda la página (body). Puedes elegir un color que te guste. Cambia el color del texto del párrafo descriptivo.ook
